@@ -1,4 +1,4 @@
-# NASA APOD Viewer
+# [NASA APOD Viewer](https://space-it-up.netlify.app/)
 
 This project is a simple React application that fetches and displays the NASA Astronomy Picture of the Day (APOD). The app also includes a sidebar and a footer component that can toggle visibility based on user interaction.
 
@@ -54,3 +54,5 @@ VITE_NASA_API_KEY=your_nasa_api_key
 -   Font Awesome (for icons)
 
 To install these dependencies, you can use `npm install` as described in the [Installation](#installation) section.
+
+![SpaceIt Application Screenshot](WEBAPP_Screenshot.png)
